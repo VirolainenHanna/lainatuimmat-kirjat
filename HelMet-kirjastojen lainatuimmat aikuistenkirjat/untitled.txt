@@ -1,0 +1,12 @@
+HelMet-kirjastojen lainatuimmat aikuistenkirjat
+https://www.avoindata.fi/data/fi/dataset/helmet-kirjastojen-lainatuimmat-aikuistenkirjat
+
+Luettelot lainatuimmista aikuisten kirjoista Espoon, Helsingin, Kauniaisten ja Vantaan kaupunginkirjastoissa.
+Luettelot kattavat 100 lainatuinta aikuisten kirjaa (kauno- ja tietokirjallisuus).
+Tiedot ovat neljännesvuosittain ja alkavat vuoden 2014 alusta. Tiedoissa on mukana myös lainojen uusinnat.
+
+Kentät:
+Nimeke: Kirjan nimi
+Tekijä: Ensisijainen tekijä
+ISBN: Kirjan tai muun erillisteoksen yksiselitteinen tunnus, josta selviää mm. kirjan julkaisumaa tai kieliryhmä ja kustantaja
+Lainauskerrat: Kaikkien kierrossa olevien kappaleiden (niteiden) lainauskertojen kertymä aikavälillä. Sisältää myös uusinnat.
